@@ -1,2 +1,2 @@
 # Learning-Docker
-Learning Docker in a hands-ono way
+Learning Docker in a hands-on way
